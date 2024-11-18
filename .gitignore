@@ -1,0 +1,5 @@
+/.npm/
+/.pip/
+/.venv/
+dist/
+node_modules/
